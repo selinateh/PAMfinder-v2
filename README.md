@@ -20,6 +20,10 @@ When supplied with a tumor-normal (T-N) subtracted VCF (ideally one generated us
 7)	Filter for variants that produce novel NGG PAM
 8)	Design sgRNA
 
+## Test run
+Script: PAMfinder-test.R
+Input: mutect2_test.vcf
+Output: test_PamFinderoutput.txt
+
 ## Reference
-a) Selina Shiqing K Teh, Kirsten Bowland, Eitan Halper-Stromberg, Akhil Kotwal, Alexis Bennett, Alyza Skaist, Jacqueline Tang, Fidel Cai, Antonella Macoretta, Hong Liang, Hirohiko Kamiyama, Sarah Wheelan, Ming-Tseh Lin, Ralph H Hruban, Chien-Fu Hung, Michael Goldstein, Robert B Scharpf, Nicholas J Roberts, James R Eshleman, CRISPR-Cas9 for selective targeting of somatic mutations in pancreatic cancers, NAR Cancer, Volume 6, Issue 2, June 2024, zcae028, https://doi.org/10.1093/narcan/zcae028
-b) 
+Selina Shiqing K Teh, Kirsten Bowland, Eitan Halper-Stromberg, Akhil Kotwal, Alexis Bennett, Alyza Skaist, Jacqueline Tang, Fidel Cai, Antonella Macoretta, Hong Liang, Hirohiko Kamiyama, Sarah Wheelan, Ming-Tseh Lin, Ralph H Hruban, Chien-Fu Hung, Michael Goldstein, Robert B Scharpf, Nicholas J Roberts, James R Eshleman, CRISPR-Cas9 for selective targeting of somatic mutations in pancreatic cancers, NAR Cancer, Volume 6, Issue 2, June 2024, zcae028, https://doi.org/10.1093/narcan/zcae028
